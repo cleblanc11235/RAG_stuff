@@ -1,0 +1,12 @@
+python-docx
+python-dotenv
+docx2txt
+llama_index
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+llama-index-llms-ollama
+llama-index-readers-file
+llama-index 
+pypdf 
+chromadb
+llama-index-vector-stores-chroma
